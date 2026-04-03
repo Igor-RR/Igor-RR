@@ -1,22 +1,5 @@
 <div align="center">
 
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Olá,%20mundo!%20🧬&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Bem-vindo%20ao%20meu%20espaço%20no%20GitHub&descAlignY=55&descColor=7fdbff" />
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Cientista+de+Dados;Bioinformata+apaixonado+por+dados;Automatizando+o+futuro+com+código;Python+%2B+C%2B%2B+%2B+Java+%2B+TypeScript)](https://git.io/typing-svg)
-
----
-
-<!-- Badges de visitas e status -->
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00d4ff&style=for-the-badge&label=VISITAS)
-![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=for-the-badge&color=00d4ff&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/SEU_USERNAME?style=for-the-badge&color=00d4ff&labelColor=0d1117)
-
-</div>
-
----
-
 ## 🧬 Sobre mim
 
 ```python
