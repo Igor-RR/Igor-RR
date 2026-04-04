@@ -2,25 +2,7 @@
 
 # Olá! Meu nome é Ígor
 
-##Sobre mim
-
-```python
-class Developer:
-    def __init__(self):
-        self.nome       = "Seu Nome"
-        self.localidade = "Garça, São Paulo 🇧🇷"
-        self.foco       = ["Bioinformática", "Data Science / IA", "Automação"]
-        self.linguagens = ["Python", "C/C++", "TypeScript", "Java"]
-        self.status     = "Sempre aprendendo, sempre codando 🚀"
-
-    def missao(self):
-        return "Unir biologia e computação para gerar impacto real no mundo."
-
-eu = Developer()
-print(eu.missao())
-```
-
----
+## Sobre mim
 
 ## 🛠️ Stack & Tecnologias
 
