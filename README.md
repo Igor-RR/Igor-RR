@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Olá! Sou Ígor
+# Olá! Meu nome é Ígor
 
 ##Sobre mim
 
