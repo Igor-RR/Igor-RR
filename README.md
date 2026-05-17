@@ -69,34 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=7fdbff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=7fdbff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&border=00d4ff&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=7fdbff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📬 Vamos nos conectar?
 
 <div align="center">
