@@ -7,7 +7,6 @@
 ## 🛠️ Stack & Tecnologias
 
 ### 💻 Linguagens
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,8 +17,24 @@
 
 </div>
 
-### 🤖 Data Science & IA
+### 🗄️ Backend & Bancos de Dados
+<div align="center">
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### 🤖 Data Science & IA
 <div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -35,15 +50,14 @@
 
 ## 🎯 Áreas de Interesse
 
-<div align="center">
-
-| 🧬 Bioinformática | 🤖 Data Science / IA | ⚙️ Sistemas Embarcados | 🗄️ Backend | ⚡ Signal Processing | 👁️ Visão Computacional 
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Análise de sequências genômicas | Machine Learning & Deep Learning | Scripts e pipelines inteligentes |
-| Biologia computacional | Visualização de dados | Automação de processos repetitivos |
-| Modelagem molecular | NLP e análise de texto | Integração de APIs e sistemas |
-
-</div>
+| Área | Foco |
+|:--|:--|
+| 🧬 **Bioinformática** | Análise de sequências genômicas, biologia computacional, modelagem molecular |
+| 🤖 **Data Science / IA** | Machine Learning & Deep Learning, visualização de dados, NLP e análise de texto |
+| ⚙️ **Sistemas Embarcados** | Scripts e pipelines inteligentes, automação de processos repetitivos |
+| 🗄️ **Backend** | Desenvolvimento de APIs REST, arquitetura de serviços, integração com bancos de dados |
+| ⚡ **Signal Processing** | Processamento e análise de sinais |
+| 👁️ **Visão Computacional** | Detecção e reconhecimento de imagens |
 
 ---
 
@@ -60,7 +74,5 @@
 ---
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
-
 </div>
